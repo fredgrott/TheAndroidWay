@@ -1,23 +1,14 @@
 The Android Way
 ===============
 
-This is some coding projects and content for a book titled The Android Way which
-Apache Licensed 2.0.
+What if you had this magical Android Java Application Development and Design book that got you into the philosophy of Android Application Development and Design while at the same time taught all those android best practices that seem to be hidden behind each fortune 500 corporation wall?
 
-I do not know if its a book that will have many authors or just me as the author. But, the format is in
-gitbook using the same toolchain so that anyone can download the book and generate a
-copy in the format they want.
+Once upon a time the computer language called java was new and thus there were no java programmers except for those at the firm that created Java. Thus, its not really true that non computer science people cannot learn java or Android Java Application Development.
 
-That being said the focus of the book is to give all the under-employed that are feeling the disruptive
-march of technological progress a way to get the knowledge and skill to get that one Android Application
-out there in Google Play or Amazon App Store, etc that will assist them in paying for a used car,
-the health insurance  co-pay, etc that gives them and their family a better life and hopefully at some
-point a piece of the American Dream rather than depend upon the failed promises of US Congress.
+The next area of business start expansion will be that one-to-two person business that creates an Android Application that takes some free data that our society produces and transforms it into something that is magically integrated with an activity. That could be you controlling your own destiny and the destiny of your family. Not working for the MAN or the WOMEN and not the GOVERNMENT, but you charting the course of your own destiny.
 
-With this being targeted to non-programmers and non-designers that does not mean that no code and no design
-within this book. It simply means I am going to show you the fast way to get those areas so that you
-can than get to coding your Android Application. It does however mean that I will be talking about non
-coding subjects.
+This book content and code is designed to give you that beginning map towards that adventure.
+
 
 # Cross-Platform
 

@@ -12,6 +12,10 @@ Google acquired Android Inc in the fal lof 2005 and retained rubin and Miner and
 
 ## Google
 
+## Gradle
+
+## Groovy
+
 ## Java
 
 
