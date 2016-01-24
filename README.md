@@ -14,6 +14,12 @@ This book content and code is designed to give you that beginning map towards th
 
 The code and content is cross-platform.
 
+# Implementation
+
+Planning is in flux, and any planning docs will be in the raw folder.
+The idea is write an article about a certain area and put in the raw folder. Than expand the article into
+a full chapter or two.
+
 # License
 
 # Credits
